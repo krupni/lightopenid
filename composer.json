@@ -1,7 +1,7 @@
 {
     "name": "krupni/lightopenid",
     "description": "An PHP 5 library for easy openid authentication. Works only as a consumer.",
-    "minimum-stability":"stable",
+    "minimum-stability":"dev",
     "authors": [
         {
             "name": "Mewp"
