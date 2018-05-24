@@ -1,5 +1,5 @@
 {
-    "name": "itmages/lightopenid",
+    "name": "krupni/lightopenid",
     "description": "An PHP 5 library for easy openid authentication. Works only as a consumer.",
     "minimum-stability":"stable",
     "authors": [
