@@ -1,4 +1,4 @@
-**This repository is restored itmages/yii-eoauth**
+**This repository is restored itmages/lightopenid**
 
 lightopenid
 ===========
